@@ -2,7 +2,7 @@
 --                         Politecnico di Milano                                --
 --              Prova Finale - Progetto di Reti Logiche 2023/2024               --
 --                                                                              --
---  Matteo Gallo (10710694)                                                     --
+--  Matteo Gallo                                                 --
 ----------------------------------------------------------------------------------
 
 
